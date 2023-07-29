@@ -10,5 +10,9 @@ public class DemoGitHub {
 		System.out.println(a+b);
 		
 	}
-
+	//sub method
+	public static void sub (int a , int b, int c  ) {
+		System.out.println(a-b-c);
+		
+	}
 }
